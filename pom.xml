@@ -105,12 +105,7 @@
 					</javaApiLinks>
 					<!-- add license notice -->
 					<bottom>
-						<![CDATA[
-							This documentation is licensed under
-							<a href="https://creativecommons.org/licenses/by/4.0/" title="CC-BY 4.0">CC-BY 4.0</a>,
-							attributed to Nicolai Parlog from 
-							<a href="http://codefx.org" title="CodeFX">CodeFX</a>.
-						]]>
+						<![CDATA[This documentation was released into the public domain.]]>
 					</bottom>
 					<tags>
 						<tag>
